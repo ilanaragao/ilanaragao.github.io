@@ -1,0 +1,71 @@
+body {
+    background-color: #ADB5BD;
+    padding: 1%;
+}
+
+h1 {
+    font-family: Perpetua;
+    font-size: 40px;
+}
+
+ul {
+    line-height: 40px;
+}
+
+ul li:nth-child(odd) {
+    background-color: rgba(0, 0, 0, 0.301);
+    color: black;
+}
+
+.cabecalho {
+    margin-top: 0px;
+}
+
+.body {
+    margin-top: 10px;
+    margin-bottom: 90px;
+}
+
+.meunome {
+    text-align: center;
+    font-family: monospace;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.link1 {
+    line-height: 23px;
+    margin: 0px;
+}
+
+.link2 {
+    line-height: 5px;
+    padding: 5px;
+}
+
+.descricao {
+    font-family: Trebuchet MS;
+    height: 125px;
+    margin-bottom: 0px;
+}
+
+.minhaimagem {
+    border-radius: 50px;
+    float: left;
+    height: 292px;
+    padding: 4px;
+    background-color: black;
+    margin-right: 20px;
+}
+
+.hb1 {
+    font-size: 23px;
+}
+
+.hb2 {
+    font-size: 20px;
+}
+
+.hb3 {
+    font-size: 17px;
+}

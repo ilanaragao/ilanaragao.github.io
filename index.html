@@ -3,76 +3,39 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Ilan Aragão Souza</title>
-	<style>
-
-		body {
-			background-color: #ADB5BD;
-		}
-
-		h1 {
-			font-family: Perpetua;
-			font-size: 40px;
-		}
-
-		ul {
-			line-height: 40px;
-		}
-
-		.link1 {
-			line-height: 23px;
-		}
-
-		.link2 {
-			line-height: 5px;
-		}
-
-		.descricao {
-			font-family: Trebuchet MS;
-		}
-
-		.minhaimagem {
-			border-radius: 50px;
-		}
-
-		.hb1 {
-			font-size: 23px;
-		}
-
-		.hb2 {
-			font-size: 20px;
-		}
-
-		.hb3 {
-			font-size: 17px;
-		}
-
-	</style>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<ul>
-		<li class="link1"><a href="#orgulho">Principais habilidades</li></a>
-		<li class="link1"><a href="#outras">Outras habilidades</li></a>
-	</ul>
-  <h1>Ilan Aragão Souza</h1>
-	<br>
-	<img src="img/Eu.jpg" alt="Uma foto minha" width="250px" class="minhaimagem">
-	<br>
-	<br>
-	<p class="descricao"><em><strong>Brasileiro</em></strong>, de <em><strong>Alagoinhas-BA</em></strong>, atualmente estudante da <em><strong>Trybe - Turma 14 - Tribo A</strong></em>.</p>
-	<p class="descricao">Apaixonado por <s>cachorros</s> Desenvolvimento Web.</p>
-	<br>
-	<p class="link2"><a href="https://www.linkedin.com/in/ilanaragao/" target="_blank">Meu LinkedIn</a></p>
-	<p class="link2"><a href="https://github.com/ilanaragao" target="_blank">Meu GitHub</a></p>
-	<br>
+
+		<p class="link1"><a href="#orgulho">Principais habilidades</p></a>
+		<p class="link1"><a href="#outras">Outras habilidades</p></a>
+	
+	<div>
+		<h1 class="meunome">Ilan Aragão Souza</h1>
+		<div class="hearder">
+			<img src="img/Eu.jpg" alt="Uma foto minha" width="250px" class="minhaimagem">
+			<p class="descricao"><em><strong>Brasileiro</em></strong>, de <em><strong>Alagoinhas-BA</em></strong>, atualmente estudante da <em><strong>Trybe - Turma 14 - Tribo A</strong></em>.</p>
+			<p class="descricao">Apaixonado por <s>cachorros</s> Desenvolvimento Web.</p>
+			<p class="descricao">E games.</p>
+		</div>
+	</div>
+	
+	<div class="body">
+		<p class="link2"><a href="https://www.linkedin.com/in/ilanaragao/" target="_blank">Meu LinkedIn</a></p>
+		<p class="link2"><a href="https://github.com/ilanaragao" target="_blank">Meu GitHub</a></p>
+	</div>
+
 	<p id="orgulho"><strong>Habilidades que mais me orgulho:</strong></p>
-	<ul>
+
+	<ul class="lista-habilidades">
 		<li class="hb1">Comprometimento</li>
 		<li class="hb2">Resiliência</li>
 		<li class="hb3">Empatia</li>
 	</ul>
-	<br>
+
 	<p id="outras"><strong>Outras habilidades:</strong></p>
-	<ul>
+
+	<ul class="lista-habilidades">
 		<li class="hb1">JavaScript</li>
 		<li class="hb2">HTML</li>
 		<li class="hb3">CSS</li>
