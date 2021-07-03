@@ -24,6 +24,7 @@ ul li:nth-child(odd) {
 .body {
     margin-top: 10px;
     margin-bottom: 90px;
+    text-align: center;
 }
 
 .meunome {
@@ -35,12 +36,14 @@ ul li:nth-child(odd) {
 
 .link1 {
     line-height: 23px;
-    margin: 0px;
+    padding: 5px;
+    display: inline;
 }
 
 .link2 {
     line-height: 5px;
     padding: 5px;
+    display: inline;
 }
 
 .descricao {
