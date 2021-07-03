@@ -1,74 +1,75 @@
 body {
-    background-color: #ADB5BD;
-    padding: 1%;
+  background-color: #adb5bd;
+  padding: 1%;
 }
 
 h1 {
-    font-family: Perpetua;
-    font-size: 40px;
+  font-family: Perpetua;
+  font-size: 40px;
 }
 
 ul {
-    line-height: 40px;
+  line-height: 40px;
 }
 
 ul li:nth-child(odd) {
-    background-color: rgba(0, 0, 0, 0.301);
-    color: black;
+  background-color: rgba(0, 0, 0, 0.301);
+  color: black;
 }
 
 .cabecalho {
-    margin-top: 0px;
+  margin-top: 0px;
 }
 
 .body {
-    margin-top: 10px;
-    margin-bottom: 90px;
-    text-align: center;
+  margin-top: 10px;
+  margin-bottom: 90px;
+  text-align: center;
 }
 
 .meunome {
-    text-align: center;
-    font-family: monospace;
-    margin-bottom: 80px;
-    margin-top: 50px;
+  text-align: center;
+  font-family: monospace;
+  margin-bottom: 80px;
+  margin-top: 50px;
 }
 
 .link1 {
-    line-height: 23px;
-    padding: 5px;
-    display: inline;
+  line-height: 23px;
+  padding: 10px;
+  display: inline;
 }
 
 .link2 {
-    line-height: 5px;
-    padding: 5px;
-    display: inline;
+  line-height: 5px;
+  padding: 10px;
+  display: inline;
+  margin: 100px;
 }
 
 .descricao {
-    font-family: Trebuchet MS;
-    height: 125px;
-    margin-bottom: 0px;
+  font-family: Trebuchet MS;
+  height: 125px;
+  margin-bottom: 0px;
 }
 
 .minhaimagem {
-    border-radius: 50px;
-    float: left;
-    height: 292px;
-    padding: 4px;
-    background-color: black;
-    margin-right: 20px;
+  border-radius: 50px;
+  float: left;
+  height: 292px;
+  padding: 4px;
+  background-color: black;
+  margin-right: 20px;
 }
 
 .hb1 {
-    font-size: 23px;
+  font-size: 23px;
 }
 
 .hb2 {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .hb3 {
-    font-size: 17px;
+  font-size: 17px;
 }
