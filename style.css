@@ -42,8 +42,9 @@ ul li:nth-child(odd) {
 
 .link2 {
   line-height: 5px;
-  padding: 50px;
   display: inline;
+  margin-left: 70px;
+  margin-right: 70px;
 }
 
 .descricao {
