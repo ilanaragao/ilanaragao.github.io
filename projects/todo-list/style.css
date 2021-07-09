@@ -1,0 +1,16 @@
+.selected {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+#titulo {
+  font-size: 35px;
+}
+
+#funcionamento {
+  font-style: italic;
+  font-size: 20px;
+}
