@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background-image: url('png-transparent-assorted-color-stars-background-watercolor-painting-star-watercolor-and-stars-texture-watercolor-leaves-png-material-removebg-preview.png');
+  background-size: cover;
+}
+
+#title {
+  text-align: center;
+  font-size: 45px;
+}
+
+.header {
+  margin: 30px 0;
+  font-family: cursive;
+}
+
+#color-palette {
+  display: flex;
+  margin: 50px auto 10px;
+  max-width: 370px;
+}
+
+.color {
+  border: 1px solid black;
+  border-radius: 5px;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  margin: 0 25px;
+  cursor: pointer;
+}
+
+.color:nth-child( 1 ) {
+  background-color: black;
+}
+
+#pixel-board {
+  display: table;
+  margin: 0 auto 80px;
+  border: 1px solid black;
+}
+
+.linha {
+  display: table-row;
+}
+
+.pixel {
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border: 1px solid black;
+  cursor: cell;
+}
+
+.botoes {
+  display: flex;
+  max-width: 290px;
+  margin: 0 auto 50px;
+}
+
+.botoes button {
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.botoes input {
+  max-height: 25px;
+  max-width: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 0 0 0 90px;
+  font-size: 15px;
+  text-align: center;
+}
