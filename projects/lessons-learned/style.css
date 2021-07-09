@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 1em;
+}
+
+p {
+  padding: 10px;
+}
+
+#titulo {
+  margin: auto;
+}
+
+#minha_foto {
+  width: 350px;
+  border-radius: 70px;
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+}
+
+.foot {
+  color: rgb(47, 62, 70);
+}
+
+.name {
+  line-height: 50px;
+}
+
+.conteiner {
+  display: inline-block;
+}
+
+.lado-esquerdo {
+  width: 600px;
+  float: left;
+}
+
+.lado-direito {
+  width: 600px;
+  float: right;
+}
