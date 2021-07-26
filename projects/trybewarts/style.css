@@ -1,0 +1,127 @@
+@font-face {
+  font-family: harry-p;
+  src: url('fonts/HARRYP__.TTF');
+
+  /* Inspirado por: https://github.com/tryber/sd-014-a-project-trybewarts/pull/33 */
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+textarea {
+  margin-bottom: 15px;
+}
+
+main {
+  background-image: url('images/71YsEs6ZzrL._AC_SL1001_.jpg');
+  background-size: cover;
+}
+
+footer {
+  background-color: rgba(194, 176, 118, 0.288);
+  text-align: center;
+}
+
+.trybewarts-login {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  margin-right: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#trybewarts-header-title {
+  align-self: center;
+  color: white;
+  font-family: harry-p, sans-serif;
+  font-size: 40px;
+  letter-spacing: 0.2em;
+}
+
+#email , #password {
+  border-radius: 5px;
+  border-style: none;
+}
+
+#login {
+  border-radius: 5px;
+}
+
+#input-email , #input-name , #input-lastname , #house {
+  margin-left: 5px;
+}
+
+#label-family , #label-content {
+  margin-bottom: 6px;
+}
+
+.main-container input {
+  margin-left: 5px;
+}
+
+.email-house {
+  display: flex;
+  padding: 10px;
+}
+
+.name-lastname label {
+  margin-left: 5px;
+}
+
+.label-email-house {
+  margin-left: 5px;
+}
+
+.trybewarts-header-logo {
+  align-self: flex-start;
+  width: 50px;
+}
+
+.header {
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  justify-content: space-between;
+}
+
+.textarea {
+  margin-bottom: 15px;
+}
+
+.main-container {
+  display: flex;
+  margin: 15px;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+.name-lastname {
+  display: flex;
+}
+
+.div-direction {
+  flex-direction: column;
+}
+
+.div-container {
+  flex-wrap: wrap;
+  width: 365px;
+}
+
+#submit-btn {
+  padding: 2px;
+  width: 50px;
+  height: 27px;
+  margin-top: 10px;
+}
