@@ -8,6 +8,10 @@ p {
   padding: 10px;
 }
 
+a {
+  text-decoration: none;
+}
+
 #titulo {
   margin: auto;
 }
@@ -18,8 +22,15 @@ p {
 }
 
 #cabecalho {
-  position: fixed;
-  top: 0;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+#nav-bar {
+  justify-content: space-between;
+  width: 200px;
+  display: flex;
+  list-style: none;
 }
 
 .foot {
