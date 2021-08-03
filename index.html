@@ -1,45 +1,119 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
+
 <head>
-	<meta charset="UTF-8">
-	<title>Ilan Aragão Souza</title>
-	<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quattrocento+Sans">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Ilan Aragão | Portfólio</title>
 </head>
+
 <body>
+  <header>
+    <nav class="header-nav hero-color">
+      <a href="#about-me">Sobre mim</a> &nbsp;|&nbsp; <a href="#skills">Habilidades</a> &nbsp;|&nbsp; <a
+        href="#projects">Projetos</a> &nbsp;|&nbsp; <a href="#contact">Contatos</a>
+    </nav>
+  </header>
+  <section id="hero" class="hero">
+    <div id="hero-name">
+      <h3 class="hero-color hero-position">console.log(`HELLO WORLD,</h3>
+      <h2 class="hero-color">eu sou o</h2>
+      <h1>Ilan<br>Aragão`);</h1>
+      <h3 class="hero-color uppercase">- Web Developer student -</h3>
+    </div>
+  </section>
+  <section id="about-me" class="about-me">
+    <div id="profile-pic" class="div-picprofile">
+      <img src="img/eu.png" alt="Foto de perfil de Marina Barcelos" class="profile-pic">
+    </div>
+    <div id="description" class="div-profile">
+      <h2>${sobreMim}</h2>
+      <p>`Meu nome é Ilan Aragão Souza, tenho 32 anos e resido em Alagoinhas - BA, cidade onde nasci.
+        Estudante de desenvolvimento web na Trybe, e também graduado em Engenharia Ambiental.
+        Apaixonado por tecnologia && games && músicas && séries.`</p>
+    </div>
+  </section>
 
-		<p class="link1"><a href="#orgulho">Principais habilidades</p></a>
-		<p class="link1"><a href="#outras">Outras habilidades</p></a>
-	
-	<div>
-		<h1 class="meunome">Ilan Aragão Souza</h1>
-		<div class="hearder">
-			<img src="img/Eu.jpg" alt="Uma foto minha" width="250px" class="minhaimagem">
-			<p class="descricao"><em><strong>Brasileiro</em></strong>, de <em><strong>Alagoinhas-BA</em></strong>, atualmente estudante da <em><strong>Trybe - Turma 14 - Tribo A</strong></em>.</p>
-			<p class="descricao">Apaixonado por <s>cachorros</s> Desenvolvimento Web.</p>
-			<p class="descricao">E games.</p>
-		</div>
-	</div>
-	
-	<div class="body">
-		<a href="https://www.linkedin.com/in/ilanaragao/" target="_blank" class="link2"><img src="https://img.icons8.com/fluent/35/000000/linkedin.png" class="link3"/></a>
-		<a href="https://github.com/ilanaragao" target="_blank" class="link2"><img src="https://img.icons8.com/ios-glyphs/35/000000/github.png" class="link3"/></a>
-	</div>
 
-	<p id="orgulho"><strong>Habilidades que mais me orgulho:</strong></p>
+  <section id="skills">
+    <div class="skills-title">
+      <h2>${habilidades}</h2>
+    </div>
+    <div class="skills-container">
+      <div class="skill-item"><img src="img/unixicon.png" class="skill-img">
+        <p>Sistema Operacional Unix</p>
+      </div>
+      <div class="skill-item"><img src="img/htmlicon.png" class="skill-img">
+        <p>Linguagens HTML e HTML5</p>
+      </div>
+      <div class="skill-item"><img src="img/cssicon.png" class="skill-img">
+        <p>Linguagem CSS</p>
+      </div>
+      <div class="skill-item"><img src="img/jsicon.png" class="skill-img">
+        <p>Linguagem JavaScript</p>
+      </div>
+      <div class="skill-item"><img src="img/photoshopicon.png" class="skill-img">
+        <p>Software Adobe Photoshop</p>
+      </div>
+      <div class="skill-item"><img src="img/illustratoricon.png" class="skill-img">
+        <p>Software Adobe Illustrator</p>
+      </div>
+      <div class="skill-item"><img src="img/lightroomicon.png" class="skill-img">
+        <p>Software Adobe Lightroom</p>
+      </div>
+      <div class="skill-item"><img src="img/photoicon.png" class="skill-img">
+        <p>Fotografia<br>Domínio da técnica e câmera D-SLR</p>
+      </div>
+    </div>
+  </section>
 
-	<ul class="lista-habilidades">
-		<li class="hb1">Comprometimento</li>
-		<li class="hb2">Resiliência</li>
-		<li class="hb3">Empatia</li>
-	</ul>
+  <section id="projects">
+    <div class="projects-title">
+      <h2>${projetos}</h2>
+    </div>
+    <div class="projects-container">
+      <div class="projects-item"><img src="img/polaroid.png" class="projects-img">
+        <p>To-Do List</p>
+      </div>
+      <div class="projects-item"><img src="img/polaroid.png" class="projects-img">
+        <p>Arte em Pixels</p>
+      </div>
+      <div class="projects-item"><img src="img/polaroid.png" class="projects-img">
+        <p>Meme Generator</p>
+      </div>
+      <div class="projects-item"><img src="img/polaroid.png" class="projects-img">
+        <p>Facebook<br>Welcome Page</p>
+      </div>
+    </div>
+  </section>
 
-	<p id="outras"><strong>Outras habilidades:</strong></p>
+  <section id="contact">
+    <div class="contact-title">
+      <h2>${contatos}</h2>
+    </div>
+    <div class="social-media">
+      <div>
+        <h3>/email:</h3>
+        <p><a href="mailto:ilan_aragao@hotmail.com">ilan_aragao@hotmail.com</a></p>
+        <h3>/redes:</h3>
+      </div>
+      <section class="section-item">
+        <div class="sm-item">
+          <a href="https://github.com/ilanaragao/"><img src="https://img.icons8.com/windows/35/000000/github.png"/>GitHub</a>
+        </div>
 
-	<ul class="lista-habilidades">
-		<li class="hb1">JavaScript</li>
-		<li class="hb2">HTML</li>
-		<li class="hb3">CSS</li>
-	</ul>
-
+        <div class="sm-item">
+          <a href="https://www.linkedin.com/in/ilanaragao/"><img src="https://img.icons8.com/color/35/000000/linkedin-2--v2.png"/>LinkedIn</a>
+        </div>
+    </section>
+    </div>
+  </section>
+  <footer>
+    © Ilan Aragão Souza | 2021
+  </footer>
 </body>
+
 </html>
