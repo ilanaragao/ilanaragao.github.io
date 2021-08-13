@@ -231,6 +231,14 @@ footer {
     justify-content: space-evenly;
     padding-left: 0%;
   }
+
+  #contact a:hover {
+    opacity: 100%;
+  }
+  
+  .header-nav a:hover {
+    opacity: 100%;
+  }
   
   .profile-pic {
     margin-top: 60px;
