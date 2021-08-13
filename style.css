@@ -268,4 +268,17 @@ footer {
   .sm-icon {
     height: 25px;
   }
+
+  .section-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 210px;
+  }
+
+  .sm-item {
+    font-size: 12pt;
+    width: 90px;
+    text-align: center
+  }
 }
