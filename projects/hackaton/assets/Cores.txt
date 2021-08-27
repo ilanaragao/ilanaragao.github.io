@@ -1,0 +1,11 @@
+cores:
+
+ - cinza #333333
+ - azul escuro #274472
+ - azul medio #0098DA
+ - azul claro #00CCFF
+ - branco #FFFFFF
+
+FONTES:
+ - lobster
+ - Roboto Lt 
