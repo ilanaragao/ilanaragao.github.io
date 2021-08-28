@@ -55,7 +55,8 @@ select {
 .section-title {
   margin-bottom: 42px;
 }
- #logo {
+
+#logo {
   text-align: center;
   padding: 16px;
   margin-bottom: 29px;
@@ -63,7 +64,7 @@ select {
  }
 
 .titles {
-  margin: 2px;
+  margin: 20px;
 }
 
 .filter-options {
@@ -131,8 +132,8 @@ select {
 }
 
 .header-logo {
-  max-width: 23%;
-  margin: 40px;
+  max-width: 22%;
+  margin: 46px;
 }
 
 #block-label {
@@ -218,7 +219,7 @@ progress::-webkit-progress-value {
 
 .img-footer {
   width: 300px;
-  margin: 50px;
+  margin: 40px;
 }
 
 .display-footer {
@@ -227,7 +228,7 @@ progress::-webkit-progress-value {
 }
 
 .list-socials {
-  margin-top: 25px;
+  margin-top: 20px;
 }
 
 .socials {
