@@ -40,6 +40,10 @@ header {
   background-color: #274472;
 }
 
+select {
+  max-width: 40%;
+}
+
 .quiz {
   border: none;
 }
@@ -59,7 +63,7 @@ header {
  }
 
 .titles {
-  margin: 23px;
+  margin: 2px;
 }
 
 .filter-options {
@@ -92,10 +96,6 @@ header {
   display: flex;
   flex-flow: row nowrap;
   min-width: 50%;
-}
-
-select {
-  max-width: 40%;
 }
 
 .btn-div {
@@ -131,8 +131,8 @@ select {
 }
 
 .header-logo {
-  max-width: 40%;
-  margin: 50px;
+  max-width: 23%;
+  margin: 40px;
 }
 
 #block-label {
