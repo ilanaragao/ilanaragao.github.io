@@ -49,6 +49,11 @@ select {
   border: none;
 }
 
+#quiz {
+  margin-top: 31px;
+  height: 35px;
+}
+
 #question-container, .btn-form {
   margin: 30px;
 }
