@@ -1,7 +1,7 @@
 ## Habilidades
 
-- Utilizei _HTML5_.
-- Utilizei _HTML5_.
+- Manipulei o _DOM_.
+- Utilizei _JavaScript_.
 - Utilizei _CSS3_.
 
 ## Objetivo
