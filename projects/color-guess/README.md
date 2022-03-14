@@ -1,4 +1,4 @@
-Nesse projeto utilizamos JavaScript, HTML5 e CSS3.
+Nesse projeto utilizei JavaScript, HTML5 e CSS3.
 
 O objetivo princial desse projeto foi criar um joguinho de adivinhação.
 
