@@ -4,8 +4,7 @@ O objetivo princial desse projeto foi criar um joguinho de adivinhação.
 
 <br>
 <p align='center'>
-<img src='https://raw.githubusercontent.com/tryber/sd-014-a-project-color-guess/master/guess-the-color.gif
-'>
+  <img src='img/guess-the-color.gif'>
 </p>
 <br>
 
