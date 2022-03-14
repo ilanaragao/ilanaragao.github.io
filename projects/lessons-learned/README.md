@@ -1,8 +1,8 @@
 ## Habilidades
 
-- Utilizei _HTML_ para construir a página WEB.
-- Utilizei _HTML_ semântico para tornar a página mais acessível e melhor ranqueada.
-- Utilizei _CSS_ para adicionar estilo e posicionar elementos.
+- Utilizei _HTML5_ para construir a página WEB.
+- Utilizei _HTML5_ semântico para tornar a página mais acessível e melhor ranqueada.
+- Utilizei _CSS3_ para adicionar estilo e posicionar elementos.
 
 ## Objetivo
 
