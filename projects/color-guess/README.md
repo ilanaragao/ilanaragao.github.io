@@ -1,4 +1,10 @@
-Nesse projeto utilizei JavaScript, HTML5 e CSS3.
+## Habilidades
+
+- Utilizei _JavaScript_.
+- Utilizei _HTML5_.
+- Utilizei _CSS3_.
+
+## Objetivo
 
 O objetivo princial desse projeto foi criar um joguinho de adivinhação.
 
