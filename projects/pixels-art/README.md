@@ -1,7 +1,7 @@
 ## Habilidades
 
 - Manipulei o _DOM_.
-- Manipulei o _JavaScript_.
+- Utilizei _JavaScript_.
 
 ## Objetivo
 
