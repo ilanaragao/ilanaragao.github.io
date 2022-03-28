@@ -17,4 +17,4 @@ O objetivo princial desse projeto era desenvolver uma API (utilizando o método 
 <br>
 
 <br>
-<p align='center'>Aplicação on-line breve.</p>
+<p align='center'>Aplicação on-line em breve.</p>
