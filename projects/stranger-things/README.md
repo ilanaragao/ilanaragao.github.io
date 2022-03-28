@@ -16,5 +16,5 @@ O objetivo princial desse projeto era consumir uma API por parte do Front-end, e
 <br>
 
 <br>
-<p align='center'>Aplicação on-line <a href='http://ilanaragao-ft.herokuapp.com/' target='_blank'>aqui</a>.
+<p align='center'>Aplicação on-line <a href='http://ilanaragao-pd.herokuapp.com/' target='_blank'>aqui</a>.
 </p>
