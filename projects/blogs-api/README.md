@@ -4,23 +4,15 @@
 - Construir endpoints para consumir os models que criar.
 - Fazer um _CRUD_ com o _Sequelize ORM_.
 
-<br>
-
 ## Objetivo
 
 O objetivo princial desse projeto era arquiteturar e desenvolver uma API de um CRUD posts de blog (com o Sequelize). Foi feito alguns endpoints (seguindo os princípios do REST) que estão conectados ao banco de dados.
 
-<br>
-
 ## Instalando dependências
-
-<br>
 
 ```bash
 npm install
 ```
-
-<br>
 
 ## Executando aplicação
 
@@ -29,8 +21,6 @@ npm install
 2. Altere o nome do arquivo `.env.example` para `.env` e adicione as informações de conexão com o banco de dados.
 
 3. Execute o comando:
-
-<br>
 
 ```bash
 npm start
