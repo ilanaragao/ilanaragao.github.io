@@ -6,7 +6,7 @@ Aqui fica armazenado meus projetos pessoais e também meus projetos na @betrybe.
 
 Com o tempo vou adicionando novas funcionalidades e melhorando o código.
 
-Cada projeto tem sua respectiva aplicação online no seu readme.
+Cada projeto tem sua respectiva aplicação online ou explicando como fazer no readme.
 
 Att.
 
