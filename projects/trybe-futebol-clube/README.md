@@ -10,6 +10,14 @@
 
 O objetivo princial desse projeto era desenvolver uma API (utilizando o método TDD) e também integrar - através do docker-compose - as aplicações para que funcionem consumindo um banco de dados.
 
+<br>
+
+<p align='center'>
+  <img src='img/front-example.png'>
+</p>
+
+<br>
+
 ## Instalando dependências
 
 ```bash
@@ -18,17 +26,10 @@ npm run install:apps
 
 ## Executando aplicação
 
-1. Certifique-se de que o MySQL server esteja rodando.
+1. Certifique-se de que o Docker esteja rodando.
 
-2. Altere o nome do arquivo `.env.example` para `.env` e adicione as informações de conexão com o banco de dados.
+2. Execute o comando:
 
-3. Execute o comando:
-
-<br>
-<p align='center'>
-  <img src='img/front-example.png'>
-</p>
-<br>
-
-<br>
-<p align='center'>Aplicação on-line em breve.</p>
+```bash
+npm run compose:up
+```
