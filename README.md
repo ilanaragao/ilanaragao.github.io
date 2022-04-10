@@ -1,13 +1,11 @@
-# ilanaragao.github.io
+# Sobre este repositório:
 
-Meu portfólio web: [Portfólio](https://ilanaragao.github.io).
+Aqui você pode encontrar meu portfólio web: [Portfólio do Ilan](https://ilanaragao.github.io).
 
-Aqui fica armazenado meus projetos pessoais e também meus projetos na @betrybe.
+Também ficará armazenado meus projetos pessoais e também meus projetos na [Trybe](https://www.betrybe.com/).
 
-Com o tempo vou adicionando novas funcionalidades e melhorando o código.
+Com o tempo vou adicionando novas funcionalidades e melhorando os que já foram adicionados. Cada um possui seu link para a aplicação online ou explicando como fazer para subir em seu respectivo readme.
 
-Cada projeto tem sua respectiva aplicação online ou explicando como fazer no readme.
+At.te,
 
-Att.
-
-[Ilan Aragão](https://www.linkedin.com/in/ilanaragao/)
+[Ilan Aragão](https://www.linkedin.com/in/ilanaragao/).
