@@ -1,20 +1,27 @@
 ## Habilidades
 
-- Criei formulário em _HTML5_.
-- Utilizei _CSS3_ Flexbox para criar layouts flexíveis.
-- Criei regras _CSS3_ específicas para serem aplicadas a dispositivos móveis.
-- Construi uma página que altera o seu layout de acordo com a orientação da tela;
+- Exercitar o conhecimento dos pilares da _Programação Orientada a Objetos: Herança, Abstração, Encapsulamento_ e _Polimorfismo_.
+- Exercitar a utilização de _Composição_.
+- Exercitar a criação e utilização de _Interfaces_.
+- Implementar, em _TypeScript: Classes, Instâncias, Atributos, Métodos e Objetos_.
+- Aplicar os conhecimentos de _MongoDB_, _Typescript_ e _POO_ para criar uma _API_ com _CRUD_;
 
 ## Objetivo
 
-O objetivo princial desse projeto era desenvolver um site de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre a escola. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo verdadeiramente mágico!
+Para este projeto, foi aplicado os princípios de POO para a contrução de uma API com CRUD para gerenciar uma concessionária de veículos utilizando o banco de dados MongoDB.
 
-<br>
-<p align='center'>
-  <img src='images/pagina-principal.png'>
-</p>
-<br>
+## Instalando dependências
 
-<br>
-<p align='center'>Aplicação on-line <a href='https://ilanaragao.github.io/projects/trybewarts/' target='_blank'>aqui</a>.
-</p>
+```bash
+npm install
+```
+
+## Executando aplicação
+
+1. Certifique-se de fazer o clone do projeto.
+
+2. Execute o comando:
+
+```bash
+npm run dev
+```
